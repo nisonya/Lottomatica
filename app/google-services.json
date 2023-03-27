@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565155102694",
+    "project_id": "snlt-b1fe7",
+    "storage_bucket": "snlt-b1fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565155102694:android:6f98ac6668787e9db1e027",
+        "android_client_info": {
+          "package_name": "lotto.matica.scommesse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565155102694-sktndt9rnkjh6fe995h3497eujn3hk0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLHgNI5Acc56aC1gJ65yWhJvjuF4_mqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565155102694-sktndt9rnkjh6fe995h3497eujn3hk0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

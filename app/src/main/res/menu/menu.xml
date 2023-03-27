@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/legs"
+        android:fontFamily="@font/roboto_slab"
+        android:icon="@drawable/legs"
+        android:title="Legs + shoulders" />
+    <item android:title="Chest + triceps"
+        android:icon="@drawable/chest"
+        android:id="@+id/chest"
+        android:fontFamily="@font/roboto_slab"/>
+    <item android:title="Biceps + back"
+        android:icon="@drawable/arms"
+        android:id="@+id/biceps"
+        android:fontFamily="@font/roboto_slab"/>
+</menu>
